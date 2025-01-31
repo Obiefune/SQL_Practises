@@ -1,0 +1,1 @@
+select first_name, last_name, age, (age + 10) * 10 as "new_age" from parks_and_recreation.employee_demographics;
