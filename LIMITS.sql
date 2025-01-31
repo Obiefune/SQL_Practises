@@ -1,0 +1,1 @@
+Select gender from employee_demographics group by gender having avg(age) > 40 limit 3 ;
